@@ -1,4 +1,4 @@
-# Electoral-Patterns-in-Indian-Democracy-1977-2015-_Project_7
+# Electoral-Patterns-in-Indian-Democracy-1977-2015_Project 7
 
 Electoral-Patterns-in-Indian-Democracy-1977-2015
 Statistical analysis of voter behavior, turnout, and party trends in Indian elections from 1977 to 2015.
